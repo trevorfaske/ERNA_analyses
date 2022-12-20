@@ -1,2 +1,2 @@
-# PHHA_analyses
-Phacelia hastata (silverleaf scorpionweed) analyses
+# ERNA_analyses
+Ericameria nauseosa (rubber rabbitbrush) analyses (full dataset)
